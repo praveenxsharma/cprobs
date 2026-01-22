@@ -1,0 +1,27 @@
+
+//making class
+
+class myclass{
+public:
+int mynum;
+string mystring;
+  };
+
+//Creating Object
+
+int main(){
+
+myclass myobj;   //creating an object of my class
+
+
+//access attributes and set values
+
+myobj.mynum=15;
+myobj.mystring="idksometext";
+
+//print attributes values
+ cout << myobj.mynum <<"\n";
+ cout << myobj.mystring;
+ return 0;
+
+  }

@@ -1,0 +1,8 @@
+class myclass{  //class
+  
+  public:                 //access specifier
+  int mynum;              //attribute (int variable)
+  string mystring;        //attribute (string variable)
+
+  };
+
