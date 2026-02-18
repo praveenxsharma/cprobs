@@ -16,7 +16,7 @@ class print{
 int main(){
   print obj;
   obj.display(10);
-  obj.display(10,20);
+  obj.display(50,20);
 
   return 0;
 }
